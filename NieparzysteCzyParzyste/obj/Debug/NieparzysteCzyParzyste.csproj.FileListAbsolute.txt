@@ -1,7 +1,0 @@
-C:\Users\michalsarnacki\source\repos\NieparzysteCzyParzyste\NieparzysteCzyParzyste\bin\Debug\NieparzysteCzyParzyste.exe.config
-C:\Users\michalsarnacki\source\repos\NieparzysteCzyParzyste\NieparzysteCzyParzyste\bin\Debug\NieparzysteCzyParzyste.exe
-C:\Users\michalsarnacki\source\repos\NieparzysteCzyParzyste\NieparzysteCzyParzyste\bin\Debug\NieparzysteCzyParzyste.pdb
-C:\Users\michalsarnacki\source\repos\NieparzysteCzyParzyste\NieparzysteCzyParzyste\obj\Debug\NieparzysteCzyParzyste.csproj.AssemblyReference.cache
-C:\Users\michalsarnacki\source\repos\NieparzysteCzyParzyste\NieparzysteCzyParzyste\obj\Debug\NieparzysteCzyParzyste.csproj.CoreCompileInputs.cache
-C:\Users\michalsarnacki\source\repos\NieparzysteCzyParzyste\NieparzysteCzyParzyste\obj\Debug\NieparzysteCzyParzyste.exe
-C:\Users\michalsarnacki\source\repos\NieparzysteCzyParzyste\NieparzysteCzyParzyste\obj\Debug\NieparzysteCzyParzyste.pdb
